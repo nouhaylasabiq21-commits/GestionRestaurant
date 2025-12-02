@@ -112,16 +112,11 @@ GestionRestaurant/
 
 ---
 
-## 🎥 Vidéo de démonstration
 
-### 🛠️ Installation Et Exécution
-[Image cliquable] → ouvre la vidéo installationet execution.mp4
+## 💻 Démonstration dans NetBeans
 
-▶️ Vidéo de démonstration — Exécution
-[Image cliquable] → ouvre la vidéo execution.mp4
+[![Demo NetBeans] (./videos/demo.mp4)
 
-💻 Vidéo de démonstration — NetBeans
-[Image cliquable] → ouvre la vidéo demo_netbeans.mp4
 
 ---
 
