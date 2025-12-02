@@ -30,9 +30,11 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 - Graphique : ** Chiffre d’affaires par plat**
 ---
 
-## 🗄️ Modèle Conceptuel de Données (MCD)
+## Creation de la base de donnes :
 
-![Modèle Conceptuel de Données](images/MCD.png)
+![creation nde la base de donnes](images/SQl.png)
+
+## 🗄️ Modèle Conceptuel de Données (MCD)
 
 
 ### ✔ Entité : Client
