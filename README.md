@@ -69,7 +69,12 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 
 ## 💻 Démonstration dans NetBeans
 
-🎥 [Voir la vidéo NetBeans](./videos/demo.mp4)
+🎥 [Voir la vidéo NetBeans : ](https://drive.google.com/file/d/1n6Hqovu4oeCeh4K810G-UUcWSrTrBcq0/view?usp=drive_link)
+
+## 💻 Installation et Execution
+
+🎥 [Voir la vidéo : ](https://drive.google.com/file/d/1JslVJoHGSYj-fSKZVpVNCjRLHDXcd3_T/view?usp=drive_link)
+
 
 
 
