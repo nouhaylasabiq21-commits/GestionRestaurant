@@ -28,52 +28,6 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 - Calcul du **chiffre d’affaires**  
 - Chiffre d’affaires **par plat**   
 - Graphique : ** Chiffre d’affaires par plat**
-
----
-
-## 🗂️ Architecture du projet
-
-Voici l’architecture exacte telle qu’elle apparaît dans ton projet :
-
-
-GestionRestaurant/
-│
-├── app/
-│ ├── AppClient.java
-│ ├── AppCommande.java
-│ └── AppPlat.java
-│
-├── connexion/
-│ └── Connexion.java # Gestion de la connexion à la base de données
-│
-├── dao/
-│ ├── IDao.java
-│ └── UserDAO.java
-│
-├── entities/
-│ ├── Client.java
-│ ├── Commande.java
-│ ├── Plat.java
-│ └── User.java
-│
-├── services/
-│ ├── Clientservice.java
-│ ├── Commandeservice.java
-│ ├── Platservice.java
-│ └── Userservice.java
-│
-├── ul/ # Interface utilisateur (Swing)
-│ ├── CalculDesRecettesForm.java
-│ ├── ClientForm.java
-│ ├── CommandeForm.java
-│ ├── FiltrageForm.java
-│ ├── LginForm.java
-│ ├── Main.java
-│ └── PlatForm.java
-│
-└── ul/images/
-
-
 ---
 
 ## 🗄️ Modèle Conceptuel de Données (MCD)
@@ -115,7 +69,8 @@ GestionRestaurant/
 
 ## 💻 Démonstration dans NetBeans
 
-[![Demo NetBeans] (./videos/demo.mp4)
+🎥 [Voir la vidéo NetBeans](./videos/demo.mp4)
+
 
 
 ---
