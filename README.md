@@ -32,6 +32,9 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 
 ## 🗄️ Modèle Conceptuel de Données (MCD)
 
+![Modèle Conceptuel de Données](images/MCD.png)
+
+
 ### ✔ Entité : Client
 - idClient  
 - nom  
@@ -55,18 +58,15 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 
 ---
 
-## 🏗️ Technologies et outils
+## 🛠 Technologies Utilisées
 
-- **Java SE**
-- **Swing** (Formulaires : Form.java)
-- **JDBC** (Connexion.java)
-- **DAO Pattern**
-- **NetBeans IDE**
-- **MySQL / db**
+- **💻 Java Swing : Utilisé pour développer l'interface graphique de l'application. Permet de créer une interface conviviale et réactive.**
+- **📊 MySQL : Base de données relationnelle utilisée pour stocker les informations sur les bus, les étudiants et les abonnements.** (Formulaires : Form.java)
+- **🔗 JDBC : Utilisé pour connecter l'application Java à la base de données MySQL et gérer les opérations de lecture et d'écriture.** (Connexion.java)
+- **🛠 NetBeans : IDE de développement utilisé pour écrire, déboguer et exécuter le code Java du projet.**
+- **🗂 phpMyAdmin : Outil de gestion de la base de données MySQL via une interface web. Utilisé pour configurer et maintenir la base de données.**
 
 ---
-
-
 ## 💻 Démonstration dans NetBeans
 
 🎥 [Voir la vidéo NetBeans : ](https://drive.google.com/file/d/1wBUq47DakoQu4_pMnpkVdhD60prPZ5iu/view?usp=drive_link)
