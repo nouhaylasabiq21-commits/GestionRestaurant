@@ -30,13 +30,9 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 - Graphique : ** Chiffre d’affaires par plat**
 ---
 
-## Creation de la base de donnes :
-
-![creation nde la base de donnes](images/SQl.png)
-
 ## 🗄️ Modèle Conceptuel de Données (MCD)
 
-
+![Modèle Conceptuel de Données](images/mcd.png)
 ### ✔ Entité : Client
 - idClient  
 - nom  
@@ -50,15 +46,10 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 - prix  
 
 ### ✔ Entité : Commande
-- idCommande  
+- id_Plat
+-id_Client 
 - quantite  
 - dateCommande  
-
-### ✔ Associations
-- **PASSER** → Client (1,N) — Commande (1,1)  
-- **CONTENIR** → Plat (1,N) — Commande (1,1)
-
----
 
 ## 🛠 Technologies Utilisées
 
