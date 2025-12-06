@@ -65,10 +65,18 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 
 
 
+
+https://github.com/user-attachments/assets/bd45b0dd-0877-4a1c-adbe-2c1a2c3d3146
+
+
 ## 💻 Installation et Execution
 
 
 
+
+
+
+https://github.com/user-attachments/assets/4efc3abd-3bdf-47b9-8073-d220d0cd9840
 
 
 
