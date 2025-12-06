@@ -32,7 +32,7 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 
 ## 🗄️ Modèle Conceptuel de Données (MCD)
 
-![Modèle Conceptuel de Données](images/mcd.png)
+![Modèle Conceptuel de Données](images/MCD.png)
 ### ✔ Entité : Client
 - idClient  
 - nom  
