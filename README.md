@@ -31,6 +31,7 @@ L’application inclut également des outils d’analyse : **calcul des recettes
 ---
 
 ## 🗄️ Modèle Conceptuel de Données (MCD)
+<img width="519" height="226" alt="mcd" src="https://github.com/user-attachments/assets/c41a8a0d-14ae-496a-89c8-455edc858ec8" />
 
 ![Modèle Conceptuel de Données](images/mcd.png)
 ### ✔ Entité : Client
